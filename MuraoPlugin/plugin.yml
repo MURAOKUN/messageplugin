@@ -1,0 +1,22 @@
+name: Murao
+main: Murao\Murao
+version: "1.0"
+api: [3.7.0, 4.0.0]
+auther: muraokun
+description: 便利プラグイン
+commands:
+ murao1:
+  description: "挨拶"
+  usage: /kon
+ murao2:
+  description: "落ちるときの挨拶"
+  usage: /otu
+ murao3:
+  description: "放置開始"
+  usage: /hs
+ murao4:
+  description: "放置終了"
+  usage: /ht
+ murao5:
+  description: "I love 副主"
+  usage: /loveletter
